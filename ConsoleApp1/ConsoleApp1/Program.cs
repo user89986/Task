@@ -11,7 +11,7 @@ namespace ConsoleApp1
             try
             {
                
-                string filePath = "F:\\Проект\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\file"; 
+                string filePath = @"file"; 
 
                
                 Class1.GeoJSONData geoJsonData = Class1.LoadGeoJSON(filePath);
@@ -33,7 +33,7 @@ namespace ConsoleApp1
                 }
 
              
-                string saveFilePath = "E:\\Проект\\ConsoleApp1\\ConsoleApp1\\bin\\Debug\\file"; 
+                string saveFilePath = @"file"; 
                 Class1.SaveGeoJSON(saveFilePath, geoJsonData);
                 Console.WriteLine($"Данные GeoJSON сохранены в {saveFilePath}");
             }
@@ -55,6 +55,7 @@ namespace ConsoleApp1
         {
             string jsonCoordinates = JsonConvert.SerializeObject(coordinates, Formatting.Indented);
             Console.WriteLine(jsonCoordinates);
+            Console.ReadLine();
         }
     }
 }

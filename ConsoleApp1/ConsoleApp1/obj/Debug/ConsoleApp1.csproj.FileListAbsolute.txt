@@ -1,0 +1,38 @@
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Студент\Desktop\Новая папка (2)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+E:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+E:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+E:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+F:\Проект\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+F:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+F:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+F:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+F:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Проект\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

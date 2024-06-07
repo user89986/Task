@@ -1,0 +1,20 @@
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\bin\Debug\GeoJSON.Net.dll
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Студент\Desktop\Новая папка (2)\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\Проект\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Проект\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Проект\ClassLibrary1\ClassLibrary1\bin\Debug\GeoJSON.Net.dll
+E:\Проект\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+E:\Проект\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+E:\Проект\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Проект\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Проект\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLib.E736BF3C.Up2Date
+E:\Проект\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Проект\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
